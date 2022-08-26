@@ -8,3 +8,4 @@
 
 В handlers\users\upload_qrcode.py нужно установить путь до папки qr_code_photo в переменной file.
 
+Запускать только app.py
